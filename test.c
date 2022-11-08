@@ -3,4 +3,5 @@
 void main(void)//this is test code
 {
   printf("Hello world! \n");
+  printf("lyx add \n");
 }
